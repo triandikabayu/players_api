@@ -1,0 +1,94 @@
+{
+    "result": [
+        {
+            "Nama_player": "TenZ",
+            "Nama_lengkap": "Tyson Ngo",
+            "Tanggal_lahir": "2001-05-05",
+            "Position": "Duelist",
+            "Country": "Canada",
+            "Team": "Sentinels",
+            "Image": "https://liquipedia.net/commons/images/thumb/c/c7/TenZ_at_Masters_Madrid_2024.jpg/900px-TenZ_at_Masters_Madrid_2024.jpg"
+        },
+        {
+            "Nama_player": "ScreaM",
+            "Nama_lengkap": "Adil Benrlitom",
+            "Tanggal_lahir": "1994-07-02",
+            "Position": "Flex",
+            "Country": "Belgium",
+            "Team": "Team Liquid",
+            "Image": "https://liquipedia.net/commons/images/thumb/6/65/ScreaM_at_the_Masters_Reykjavík_2022.jpg/900px-ScreaM_at_the_Masters_Reykjavík_2022.jpg"
+        },
+        {
+            "Nama_player": "Asuna",
+            "Nama_lengkap": "Peter Mazuryk",
+            "Tanggal_lahir": "2003-07-26",
+            "Position": "Duelist",
+            "Country": "USA",
+            "Team": "100 Thieves",
+            "Image": "https://liquipedia.net/commons/images/thumb/e/ec/Asuna_at_Red_Bull_Home_Ground_3.jpg/900px-Asuna_at_Red_Bull_Home_Ground_3.jpg"
+        },
+        {
+            "Nama_player": "Mixwell",
+            "Nama_lengkap": "Oscar Cañellas Colocho",
+            "Tanggal_lahir": "1995-10-10",
+            "Position": "Flex",
+            "Country": "Spain",
+            "Team": "G2 Esports",
+            "Image": "https://liquipedia.net/commons/images/thumb/4/4d/Mixwell_at_the_Masters_Reykjavík_2022.jpg/900px-Mixwell_at_the_Masters_Reykjavík_2022.jpg"
+        },
+        {
+            "Nama_player": "ShahZaM",
+            "Nama_lengkap": "Shahzeb Khan",
+            "Tanggal_lahir": "1993-10-08",
+            "Position": "In-game Leader",
+            "Country": "USA",
+            "Team": "Sentinels",
+            "Image": "https://liquipedia.net/commons/images/b/b4/Sentinels_ShahZaM_may_2021.png"
+        },
+        {
+            "Nama_player": "Derke",
+            "Nama_lengkap": "Nikita Sirmitev",
+            "Tanggal_lahir": "2003-02-06",
+            "Position": "Duelist",
+            "Country": "Finland",
+            "Team": "Fnatic",
+            "Image": "https://liquipedia.net/commons/images/thumb/7/7b/FNC_Derke_at_VCT_Masters_Tokyo.jpg/900px-FNC_Derke_at_VCT_Masters_Tokyo.jpg"
+        },
+        {
+            "Nama_player": "nAts",
+            "Nama_lengkap": "Ayaz Akhmetshin",
+            "Tanggal_lahir": "2002-07-01",
+            "Position": "Sentinel",
+            "Country": "Russia",
+            "Team": "M3 Champions",
+            "Image": "https://liquipedia.net/commons/images/thumb/1/15/Liquid_nAts_at_VCT_2024_EMEA_Kickoff.jpg/900px-Liquid_nAts_at_VCT_2024_EMEA_Kickoff.jpg"
+        },
+        {
+            "Nama_player": "yay",
+            "Nama_lengkap": "Jaccob Whiteaker",
+            "Tanggal_lahir": "1998-09-09",
+            "Position": "Duelist",
+            "Country": "USA",
+            "Team": "NRG",
+            "Image": "https://liquipedia.net/commons/images/thumb/0/03/Bleed_yay_at_VCT_Pacific_2024_Kickoff.jpg/900px-Bleed_yay_at_VCT_Pacific_2024_Kickoff.jpg"
+        },
+        {
+            "Nama_player": "cNed",
+            "Nama_lengkap": "Mehmet Yağız İpek",
+            "Tanggal_lahir": "2002-01-18",
+            "Position": "Operator",
+            "Country": "Turkey",
+            "Team": "Natus Vincere",
+            "Image": "https://liquipedia.net/commons/images/thumb/e/e6/FUT_cNed_at_VCT_2024_EMEA_Stage_1.jpg/900px-FUT_cNed_at_VCT_2024_EMEA_Stage_1.jpg"
+        },
+        {
+            "Nama_player": "Zombs",
+            "Nama_lengkap": "Jared Gitlin",
+            "Tanggal_lahir": "1998-10-02",
+            "Position": "Controller",
+            "Country": "USA",
+            "Team": "Sentinels",
+            "Image": "https://liquipedia.net/commons/images/6/68/Sentinels_zombs_may_2021.png"
+        }
+    ]
+}
